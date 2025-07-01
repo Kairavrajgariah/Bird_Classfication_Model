@@ -12,7 +12,7 @@ An AI-powered image classification project that identifies bird species from ima
 
 ## 🐤 Dataset Overview
 
-- **Source**: Kaggle
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/kedarsai/bird-species-classification-220-categories)
 - **Classes**: 200 bird species
 - **Images**: Pre-split into `dataset/train` and `dataset/test` folders
 
