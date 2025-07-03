@@ -82,7 +82,7 @@ bird_species_classifier/
 │   ├── visualization.py        # Plot curves, classification report
 │
 ├── saved_models/
-│   ├── resnet_model.h5
+│   ├── resnet_model.tflite
 │   ├── efficientnet_model.h5
 │
 ├── visualizations/
