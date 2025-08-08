@@ -121,13 +121,9 @@ python models/resnet.py
 python models/efficientnet.py
 ```
 
-```vbnet
-
-You can directly copy-paste this into your `README.md` file. Let me know if you want to include the DenseNet section too.
-```
-
 ## ⚠️ Notes
 This project is built for educational purposes and demonstrates computer vision applied to fine-grained species classification.
 
 Results may vary depending on dataset split and environment.
+
 
